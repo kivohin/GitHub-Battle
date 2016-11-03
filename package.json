@@ -4,7 +4,8 @@
   "description": "React.js Program course app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "production": "webpack -p",
+    "start": "webpack-dev-server"
   },
   "keywords": [
     "dev",
