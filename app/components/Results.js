@@ -1,13 +1,15 @@
 var React = require('react');
 var PropTypes = React.PropTypes;
-
-function puke(obj) {
-  return <pre>{JSON.stringify(obj, 2, ' ')}</pre>
-}
+var styles = require('../styles');
 
 function Results(props) {
   return(
-    <div>Results: {puke(props)}</div>
+    <div className="jumbotron col-sm-12 text-center" style={styles.transparentBg}>
+      <h1>Results</h1>
+      <div className="col-sm-8 col-sm-offset-2">
+        
+      </div>
+    </div>
   )
 };
 
