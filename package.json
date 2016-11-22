@@ -17,6 +17,7 @@
     "axios": "^0.15.2",
     "raven-js": "^3.8.0",
     "react": "^15.3.2",
+    "react-addons-css-transition-group": "^15.4.0",
     "react-dom": "^15.3.2",
     "react-router": "^2.0.0"
   },
@@ -24,7 +25,9 @@
     "babel-core": "^6.18.2",
     "babel-loader": "^6.2.7",
     "babel-preset-react": "^6.16.0",
+    "css-loader": "^0.26.0",
     "html-webpack-plugin": "^2.24.1",
+    "style-loader": "^0.13.1",
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2"
   }
