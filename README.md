@@ -1,6 +1,6 @@
 # GitHub Battle
 
-This is the project I build in the React.js Program online course, it's a fun web app made with React.js in which users can make fight their GitHub account versus your collegues ones and see who has the best account!
+This is the project I build in the React.js Program online course, it's a fun web app made with React.js in which users can make fight their GitHub account versus your colleagues ones and see who has the best account!
 
 ## Technologies
 
