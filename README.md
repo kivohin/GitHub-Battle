@@ -12,6 +12,7 @@ This is the project I build in the React.js Program online course, it's a fun we
 - CSS
 - Webpack
 - Node.js
+- Sentry
 
 ## Usage
 
